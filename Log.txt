@@ -1,0 +1,22 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\Users\theve\AppData\Local\Temp\ipykernel_9268\170524082.py", line 21, in <module>
+    print("Division --- ",num1/num2)
+ZeroDivisionError: division by zero
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\Users\theve\AppData\Local\Temp\ipykernel_9268\2985620223.py", line 21, in <module>
+    print("Division --- ",num1/num2)
+ZeroDivisionError: division by zero
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\Users\theve\AppData\Local\Temp\ipykernel_9268\2985620223.py", line 21, in <module>
+    print("Division --- ",num1/num2)
+ZeroDivisionError: division by zero
+ERROR:root:[Errno 2] No such file or directory: 'dataanalysis.txt'
+Traceback (most recent call last):
+  File "C:\Users\theve\AppData\Local\Temp\ipykernel_9268\366375276.py", line 10, in <module>
+    f=open("dataanalysis.txt")
+  File "C:\Users\theve\anaconda3_N\lib\site-packages\IPython\core\interactiveshell.py", line 282, in _modified_open
+    return io_open(file, *args, **kwargs)
+FileNotFoundError: [Errno 2] No such file or directory: 'dataanalysis.txt'
